@@ -1,0 +1,20 @@
+div.navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 5rem;
+  background-color: lime;
+  color: rgb(14, 16, 34);
+}
+img{
+  width: 100px;
+}
+div.lol {
+ text-decoration: overline;
+  animation-fill-mode: both;
+  justify-content: right;
+ text-align:  right;
+ padding-right: 10mm;
+  background-color: rgba(255, 81, 0, 0.788);
+  color: cadetblue;
+}
